@@ -2,6 +2,9 @@ def instantiate_new_array
   []
 end
 
+def instantiate_new_array
+  []
+end
 
 def first_element(array)
   array[0]
