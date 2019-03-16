@@ -3,7 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
- array.new(2)
+ array.new(2,true)
 end
 
 def first_element(array)
